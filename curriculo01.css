@@ -1,0 +1,105 @@
+
+#folha{
+    width: 595px;
+    height: 950px;
+    border: 1px solid ;
+    margin: auto;
+    position: relative;
+
+}
+#equipe{
+    width: 150px;
+    height: 150;
+    float: left;
+    border:1px solid black;
+    box-shadow: 3px 3px 15px black;
+    margin-top: 50px;
+    margin-left: 30px;
+
+}
+#nome{
+    float: left;
+    margin-top: 50px;
+    margin-left:30px;
+   font-family: Arial;
+   font-size: 29px;
+
+}
+#idade{
+    position: relative;
+    margin-top:90px;
+    margin-left:214px;
+}
+.aba{
+    position:relative;
+    margin-top:90px;
+    margin-left:30px;
+    width:505px;
+}
+.aba h1{
+   margin:0;
+}
+.sep{
+    width:100%;
+    height:1px;
+    color: black;
+    background-color: black;
+
+}
+#dados{
+    margin:0;
+    font-family:Sans-serif;
+    font-size: 16px;
+}
+.aba2{
+  position:relative;
+  margin-top:10px;
+  margin-left:30px;
+  width:505px;
+}
+.aba2 h1{
+  margin:0;
+  font-size:25px;
+}
+.aba2 p{
+        margin:0; 
+}
+.aba3{
+    position:relative;
+    margin-top:10px;
+    margin-left:30px;
+    width:505px;
+  }
+  .aba3 h1{
+    margin:0;
+    font-size:25px;
+  }
+  .aba3 p{
+          margin:0; 
+  }
+  .aba4{
+    position:relative;
+    margin-top:10px;
+    margin-left:30px;
+    width:505px;
+  }
+  .aba4 h1{
+    margin:0;
+    font-size:25px;
+  }
+  .aba4 p{
+          margin:0; 
+  }
+  .aba5{
+    position:relative;
+    margin-top:10px;
+    margin-left:30px;
+    width:505px;
+  }
+  .aba5 h1{
+    margin:0;
+    font-size:25px;
+  }
+  .aba5 p{
+          margin:0; 
+  }
